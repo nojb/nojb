@@ -4,7 +4,7 @@ I make a living hacking OCaml at [LexiFi](https://www.lexifi.com) in Paris.
 
 Previously, I studied and worked as a mathematician at different universities in the US and the UK.
 
-I am active in the [OCaml](https://github.com/ocaml/ocaml) community, notably as a member of the core development team of the OCaml compiler.
+I am active in the [OCaml](https://github.com/ocaml/ocaml) community, notably as a member of the development team of the OCaml compiler and the [Dune](https://github.com/ocaml/dune) build system.
 
 You can get in touch at :email: [n.oje.bar@gmail.com](mailto:n.oje.bar@gmail.com).
 
